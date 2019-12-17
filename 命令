@@ -1,0 +1,18 @@
+连接数据库服务：
+mysql -u root -p
+
+mysql vs mysqld
+
+mysql -> client
+mysqld (deamon) -> server
+
+查看 windows 服务
+services.msc 
+
+SQL（Structure query language） 结构化查询语言
+
+show databases;
+
+create database if not exists java_14_db;
+
+drop database dbname;
